@@ -1,9 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=gong&show_icons=true&line_height=32&hide_border=true" />
+
 ### Hi there 👋  
 - 🔭 I’m currently working on [Apache Inlong](https://github.com/apache/incubator-inlong)
+- 📫 How to reach me: genzhedangdang@gmail.com
   
-  
- ![Gong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gong&show_icons=true&line_height=32&hide_border=true)
-
 <!--
 **gong/gong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
