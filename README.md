@@ -1,5 +1,5 @@
 ### Hi there 👋  
-- 🔭 I’m currently working on inlong.   
+- 🔭 I’m currently working on [Apache Inlong](https://github.com/apache/incubator-inlong)
   
   
  ![Gong's GitHub stats](https://github-readme-stats.vercel.app/api?username=gong&show_icons=true&line_height=32&hide_border=true)
