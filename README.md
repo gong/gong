@@ -1,7 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=gong&show_icons=true&line_height=32&hide_border=true" />
 
 ### Hi there 👋  
-- 🔭 I’m currently working on [Apache InLong](https://github.com/apache/inlong)
+- 🔭 I’m currently working on [Apache InLong](https://github.com/apache/inlong) and [Apache Flink CDC](https://github.com/apache/flink-cdc)
 - 📫 How to reach me: genzhedangdang@gmail.com
   
 <!--
