@@ -2,7 +2,7 @@
 
 ### Hi there 👋  
 - 🔭 I’m currently working on [Apache InLong](https://github.com/apache/inlong) and [Apache Flink CDC](https://github.com/apache/flink-cdc)
-- 📫 How to reach me: genzhedangdang@gmail.com
+- 📫 How to reach me: pacinogong@apache.org
   
 <!--
 **gong/gong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
